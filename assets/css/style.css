@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+/* Khôi phục lại kích thước font mặc định cho các trình duyệt không hỗ trợ rem */
+body {
+  font-size: 1.6rem; /* 1rem = 16px */
+  font-family: "Source Code Pro", monospace;
+}
